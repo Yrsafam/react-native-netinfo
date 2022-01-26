@@ -21,6 +21,12 @@ or npm:
 npm install --save @react-native-community/netinfo
 ```
 
+#### Compatibility
+| React Native | NetInfo Version |
+|-------------|-----------------|
+| >= 0.65.0   | Latest          |
+| <= 0.64.X   | 7.1.5           |
+
 #### Using React Native >= 0.60
 Linking the package manually is not required anymore with [Autolinking](https://github.com/react-native-community/cli/blob/master/docs/autolinking.md).
 
